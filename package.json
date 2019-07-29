@@ -1,0 +1,15 @@
+{
+  "name": "git-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "unreviewed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^16.28.7",
+    "lodash": "^4.17.15"
+  }
+}
